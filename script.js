@@ -382,13 +382,13 @@ svg.append("g")
 svg.append("g")
 	.attr("transform", "translate(" + `${(width-hpadding-"popolazione tot".length*12)}` + "," + (15)+ ")")
 	.append("text")
-	.attr("font-size", "12px").text("Popolation 2021-01-01: "+ "446.8M" )
+	.attr("font-size", "12px").text("Population 2021-01-01: "+ "446.8M" )
 
 
 svg.append("g")
 	.attr("transform", "translate(" + `${(hpadding)}` + "," + (15)+ ")")
 	.append("text")
-	.attr("font-size", "12px").text("Popolation 2020-01-01: "+ "447M" )
+	.attr("font-size", "12px").text("Population 2020-01-01: "+ "447M" )
 
 svg.append("g")
 
@@ -557,12 +557,12 @@ const deaths = svg.selectAll('rect.deaths')
 svg.append("g")
 	.attr("transform", "translate(" + `${(hpadding)}` + "," + (15)+ ")")
 	.append("text")
-	.attr("font-size", "12px").text("Popolation 2020-01-01: "+ "447M" )
+	.attr("font-size", "12px").text("Population 2020-01-01: "+ "447M" )
 
 svg.append("g")
 	.attr("transform", "translate(" + `${(width-hpadding-"popolazione tot".length*12)}` + "," + (15)+ ")")
 	.append("text")
-	.attr("font-size", "12px").text("Popolation 2021-01-01: "+ "446.8M" )
+	.attr("font-size", "12px").text("Population 2021-01-01: "+ "446.8M" )
 
 
 
