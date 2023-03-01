@@ -1,0 +1,12 @@
+let generale = `month,cases,deaths
+February,527,12
+March,221743,14041
+April,489340,53071
+May,334580,19191
+June,259550,7880
+July,260628,5696
+August,418073,5430
+September,744517,8410
+October,2434067,22226
+November,3901588,65759
+December,1630245,35767`
